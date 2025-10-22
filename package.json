@@ -1,0 +1,12 @@
+{
+  "name": "com.white-arrow.tools",
+  "version": "1.0.0",
+  "displayName": "Unity Tools",
+  "description": "A library of various tools to simplify work in Unity.",
+  "licensesUrl": "https://github.com/CliffCalist/unity-tools/blob/6dc9137897c4f0143fb17d948dc969fafac3d1f0/LICENSE",
+  "author": {
+    "name": "White Arrow",
+    "email": "cliffstersprog@gmail.com"
+  },
+  "_fingerprint": "424dff88bffc5095f5e4f25f3e3fd570ca9745dd"
+}
